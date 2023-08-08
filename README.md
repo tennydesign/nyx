@@ -1,6 +1,7 @@
 # nyx
 
-![Uploading Screenshot 2023-08-08 at 11.35.26 AM.png…]()
+<img width="932" alt="Screenshot 2023-08-08 at 11 35 26 AM" src="https://github.com/tennydesign/nyx/assets/17029800/c40e5f67-cc0e-410c-a424-f58caae5e45b">
+
 
 What's different about what we are building?
 E.I (Encoded Individuation) is a psychometrics construct that is fast, precise and unique in decoding the Self.
