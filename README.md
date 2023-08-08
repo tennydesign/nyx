@@ -9,7 +9,7 @@ Metaverse dating/friendship Apps are about to explode. The Metaverse is about op
 
 E.I. allows for people to own their Self, and “plug” it into systems allowing for consumption (targeting/ match/ inferences...). This creates for one source of truth for the human personality with different levels of privacy and user-owned control.
 
-[https://nyxxp.medium.com/this-is-a-research-on-possible-ways-to-digitize-the-human-soul-using-jungian-theory-psychometrics-ead7f7ad4632](<img width="688" alt="Screenshot 2023-08-08 at 12 57 02 PM" src="https://github.com/tennydesign/nyx/assets/17029800/610ece40-9496-4fd8-9735-b7604a976324">)
+(<img width="688" alt="Screenshot 2023-08-08 at 12 57 02 PM" src="https://github.com/tennydesign/nyx/assets/17029800/610ece40-9496-4fd8-9735-b7604a976324">)
 
 
 Discord interface:
