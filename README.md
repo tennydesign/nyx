@@ -10,6 +10,7 @@ E.I. allows for people to own their Self, and “plug” it into systems allowin
 
 <img width="688" alt="Screenshot 2023-08-08 at 12 57 02 PM" src="https://github.com/tennydesign/nyx/assets/17029800/610ece40-9496-4fd8-9735-b7604a976324">
 
+[Read the research]:https://nyxxp.medium.com/this-is-a-research-on-possible-ways-to-digitize-the-human-soul-using-jungian-theory-psychometrics-ead7f7ad4632
 
 Discord interface for data collection:
 
