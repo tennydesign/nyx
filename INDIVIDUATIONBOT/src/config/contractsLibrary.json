@@ -1,0 +1,614 @@
+[
+    
+    { 
+    "name": "Bored Ape Yatch Club",
+    "alias": "BAYC",
+    "properties": 
+        {
+            "contract": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+            "roleID": "1034909867581902949",
+            "roleName": "yuga"
+        }
+    },
+    { 
+        "name": "Mutant Ape Yatch Club",
+        "alias": "MAYC",
+        "properties": 
+            {
+                "contract": "0x60E4d786628Fea6478F785A6d7e704777c86a7c6",
+                "roleID": "1034909867581902949",
+                "roleName": "yuga"
+            }
+    },
+    { 
+        "name": "Bored Ape Kennel Club",
+        "alias": "BAKC",
+        "properties": 
+            {
+                "contract": "0xba30E5F9Bb24caa003E9f2f0497Ad287FDF95623",
+                "roleID": "1034909867581902949",
+                "roleName": "yuga"
+            }
+    },
+    { 
+        "name": "Meebits",
+        "alias": "Meebits",
+        "properties": 
+            {
+                "contract": "0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7",
+                "roleID": "1034909867581902949",
+                "roleName": "yuga"
+            }
+    },
+    { 
+        "name": "Otherside",
+        "alias": "Otherside",
+        "properties": 
+            {
+                "contract": "0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+                "roleID": "1034909867581902949",
+                "roleName": "yuga"
+            }
+    },
+    { 
+        "name": "CryptoPunks",
+        "alias": "CryptoPunks",
+        "properties": 
+            {
+                "contract": "0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB",
+                "roleID": "1034909867581902949",
+                "roleName": "yuga"
+            }
+    },
+    { 
+        "name": "Goblintown.wtf",
+        "alias": "Goblintown",
+        "properties": 
+            {
+                "contract": "0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e",
+                "roleID": "1034920392269234236",
+                "roleName": "truth"
+            }
+    },
+    { 
+        "name": "Illuminati",
+        "alias": "Illuminati",
+        "properties": 
+            {
+                "contract": "0x26BAdF693F2b103B021c670c852262b379bBBE8A",
+                "roleID": "1034920392269234236",
+                "roleName": "truth"
+            }
+    },
+    { 
+        "name": "The 187",
+        "alias": "The 187",
+        "properties": 
+            {
+                "contract": "0xA48Eda4b2C63928CAC2a1fd631493AC038daFa5D",
+                "roleID": "1034920392269234236",
+                "roleName": "truth"
+            }
+    },
+    { 
+        "name": "Goblintown.wtf",
+        "alias": "Goblintown",
+        "properties": 
+            {
+                "contract": "0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e",
+                "roleID": "1034920392269234236",
+                "roleName": "truth"
+            }
+    },
+    { 
+        "name": "Crypto Kitties",
+        "alias": "Crypto Kitties",
+        "properties": 
+            {
+                "contract": "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
+                "roleID": "1036386072810238013",
+                "roleName": "legendary"
+            }
+    },
+    { 
+        "name": "Curio Cards",
+        "alias": "Curio Cards",
+        "properties": 
+            {
+                "contract": "0x73DA73EF3a6982109c4d5BDb0dB9dd3E3783f313",
+                "roleID": "1036386072810238013",
+                "roleName": "legendary"
+            }
+    },
+    { 
+        "name": "Pixel Map",
+        "alias": "Pixel Map",
+        "properties": 
+            {
+                "contract": "0x050dc61dFB867E0fE3Cf2948362b6c0F3fAF790b",
+                "roleID": "1036386072810238013",
+                "roleName": "legendary"
+            }
+    },
+    { 
+        "name": "Mooncats",
+        "alias": "Mooncats",
+        "properties": 
+            {
+                "contract": "0xc3f733ca98E0daD0386979Eb96fb1722A1A05E69",
+                "roleID": "1036386072810238013",
+                "roleName": "legendary"
+            }
+    },
+    { 
+        "name": "Euler Beats Genesis",
+        "alias": "Euler Beats Genesis",
+        "properties": 
+            {
+                "contract": "0x8754F54074400CE745a7CEddC928FB1b7E985eD6",
+                "roleID": "1036386072810238013",
+                "roleName": "legendary"
+            }
+    },
+    { 
+        "name": "WolfGame",
+        "alias": "WolfGame",
+        "properties": 
+            {
+                "contract": "0xF5b0A3eFB8e8E4c201e2A935F110eAaF3FFEcb8d",
+                "roleID": "1036387660362694706",
+                "roleName": "gam3r"
+            }
+    },
+    { 
+        "name": "Axie Infinity",
+        "alias": "Axie Infinity",
+        "properties": 
+            {
+                "contract": "0x7F36182DeE28c45dE6072a34D29855BaE76DBe2f",
+                "roleID": "1036387660362694706",
+                "roleName": "gam3r"
+            }
+    },
+    { 
+        "name": "MetaHero",
+        "alias": "MetaHero",
+        "properties": 
+            {
+                "contract": "0x6dc6001535e15b9def7b0f6A20a2111dFA9454E2",
+                "roleID": "1036387660362694706",
+                "roleName": "gam3r"
+            }
+    },
+    { 
+        "name": "MH Core",
+        "alias": "MH Core",
+        "properties": 
+            {
+                "contract": "0xFb10b1717C92e9cc2d634080c3c337808408D9E1",
+                "roleID": "1036387660362694706",
+                "roleName": "gam3r"
+            }
+    },
+    { 
+        "name": "Loot",
+        "alias": "Loot",
+        "properties": 
+            {
+                "contract": "0xFF9C1b15B16263C61d017ee9F65C50e4AE0113D7",
+                "roleID": "1036387660362694706",
+                "roleName": "gam3r"
+            }
+    },
+    { 
+        "name": "Otherside",
+        "alias": "Otherside",
+        "properties": 
+            {
+                "contract": "0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+                "roleID": "1036387660362694706",
+                "roleName": "gam3r"
+            }
+    },
+    { 
+        "name": "Gutter Cat Gang",
+        "alias": "GCG",
+        "properties": 
+            {
+                "contract": "0xEdB61f74B0d09B2558F1eeb79B247c1F363Ae452",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "Gutter Dogs",
+        "alias": "Gutter Dogs",
+        "properties": 
+            {
+                "contract": "0x6E9DA81ce622fB65ABf6a8d8040e460fF2543Add",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "Gutter Rats",
+        "alias": "Gutter Rats",
+        "properties": 
+            {
+                "contract": "0xD7B397eDad16ca8111CA4A3B832d0a5E3ae2438C",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "Gutter Rats",
+        "alias": "Gutter Rats",
+        "properties": 
+            {
+                "contract": "0x19b86299c21505cdf59cE63740B240A9C822b5E4",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "Degen Toonz",
+        "alias": "Degen Toonz",
+        "properties": 
+            {
+                "contract": "0x19b86299c21505cdf59cE63740B240A9C822b5E4",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "DeadFellaz",
+        "alias": "DeadFellaz",
+        "properties": 
+            {
+                "contract": "0x2acAb3DEa77832C09420663b0E1cB386031bA17B",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "Wicked Craniums",
+        "alias": "Wicked Craniums",
+        "properties": 
+            {
+                "contract": "0x85f740958906b317de6ed79663012859067E745B",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "DeadHeads",
+        "alias": "DeadHeads",
+        "properties": 
+            {
+                "contract": "0x6fC355D4e0EE44b292E50878F49798ff755A5bbC",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "The Doge Pound",
+        "alias": "The Doge Pound",
+        "properties": 
+            {
+                "contract": "0xF4ee95274741437636e748DdAc70818B4ED7d043",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "Genuine Undead",
+        "alias": "Genuine Undead",
+        "properties": 
+            {
+                "contract": "0x209e639a0EC166Ac7a1A4bA41968fa967dB30221",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "Cryptoon Goonz",
+        "alias": "Cryptoon Goonz",
+        "properties": 
+            {
+                "contract": "0x0322F6f11A94CFB1b5B6E95E059d8DEB2bf17D6A",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "AlienFrens",
+        "alias": "AlienFrens",
+        "properties": 
+            {
+                "contract": "0x123b30E25973FeCd8354dd5f41Cc45A3065eF88C",
+                "roleID": "1036388643918581900",
+                "roleName": "underground"
+            }
+    },
+    { 
+        "name": "Cool Cats",
+        "alias": "Cool Cats",
+        "properties": 
+            {
+                "contract": "0x1A92f7381B9F03921564a437210bB9396471050C",
+                "roleID": "1036396316227534910",
+                "roleName": "plush"
+            }
+    },
+    { 
+        "name": "Pudgy Penguins",
+        "alias": "Pudgy Penguins",
+        "properties": 
+            {
+                "contract": "0xBd3531dA5CF5857e7CfAA92426877b022e612cf8",
+                "roleID": "1036396316227534910",
+                "roleName": "plush"
+            }
+    },
+    { 
+        "name": "Tubby Cats",
+        "alias": "Tubby Cats",
+        "properties": 
+            {
+                "contract": "0xCa7cA7BcC765F77339bE2d648BA53ce9c8a262bD",
+                "roleID": "1036396316227534910",
+                "roleName": "plush"
+            }
+    },
+    { 
+        "name": "Sappy Seals",
+        "alias": "Sappy Seals",
+        "properties": 
+            {
+                "contract": "0x364C828eE171616a39897688A831c2499aD972ec",
+                "roleID": "1036396316227534910",
+                "roleName": "plush"
+            }
+    },
+    { 
+        "name": "Doodles",
+        "alias": "Doodles",
+        "properties": 
+            {
+                "contract": "0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e",
+                "roleID": "1036396696848039936",
+                "roleName": "OG Bluechips"
+            }
+    },
+    { 
+        "name": "World of Women",
+        "alias": "WOW",
+        "properties": 
+            {
+                "contract": "0xe785E82358879F061BC3dcAC6f0444462D4b5330",
+                "roleID": "1036396696848039936",
+                "roleName": "female-founder"
+            }
+    },
+    { 
+        "name": "Fame Lady Squad",
+        "alias": "FLS",
+        "properties": 
+            {
+                "contract": "0xf3E6DbBE461C6fa492CeA7Cb1f5C5eA660EB1B47",
+                "roleID": "1036396696848039936",
+                "roleName": "female-founder"
+            }
+    },
+    { 
+        "name": "Boss Beauties",
+        "alias": "Boss Beauties",
+        "properties": 
+            {
+                "contract": "0xB5C747561a185A146f83cFff25BdfD2455b31fF4",
+                "roleID": "1036396696848039936",
+                "roleName": "female-founder"
+            }
+    },
+    { 
+        "name": "Women and Weapons",
+        "alias": "Women and Weapons",
+        "properties": 
+            {
+                "contract": "0x338866F8ba75bb9D7a00502E11b099a2636C2C18",
+                "roleID": "1036396696848039936",
+                "roleName": "female-founder"
+            }
+    },
+    { 
+        "name": "Crypto Chicks",
+        "alias": "Crypto Chicks",
+        "properties": 
+            {
+                "contract": "0x1981CC36b59cffdd24B01CC5d698daa75e367e04",
+                "roleID": "1036396696848039936",
+                "roleName": "female-founder"
+            }
+    },
+    { 
+        "name": "Women Rise",
+        "alias": "Women Rise",
+        "properties": 
+            {
+                "contract": "0x7f7685b4CC34BD19E2B712D8a89f34D219E76c35",
+                "roleID": "1036396696848039936",
+                "roleName": "female-founder"
+            }
+    },
+    { 
+        "name": "WOW Galaxy",
+        "alias": "WOW Galaxy",
+        "properties": 
+            {
+                "contract": "0xf61F24c2d93bF2dE187546B14425BF631F28d6dC",
+                "roleID": "1036396696848039936",
+                "roleName": "female-founder"
+            }
+    },
+    { 
+        "name": "The Flower Girls",
+        "alias": "The Flower Girls",
+        "properties": 
+            {
+                "contract": "0x2eFa07CaC3395599db83035D196F2A0e7263F766",
+                "roleID": "1036396696848039936",
+                "roleName": "female-founder"
+            }
+    },
+    { 
+        "name": "The Flower Girls",
+        "alias": "The Flower Girls",
+        "properties": 
+            {
+                "contract": "0x2eFa07CaC3395599db83035D196F2A0e7263F766",
+                "roleID": "1036396696848039936",
+                "roleName": "female-founder"
+            }
+    },
+    { 
+        "name": "Meta Angels",
+        "alias": "Meta Angels",
+        "properties": 
+            {
+                "contract": "0xaD265Ab9B99296364F13Ce5b8B3e8d0998778bfb",
+                "roleID": "1036396696848039936",
+                "roleName": "female-founder"
+            }
+    },
+    { 
+        "name": "CloneX",
+        "alias": "CloneX",
+        "properties": 
+            {
+                "contract": "0x49cF6f5d44E70224e2E23fDcdd2C053F30aDA28B",
+                "roleID": "1036401900012195972",
+                "roleName": "mangAnime"
+            }
+    },
+    { 
+        "name": "0n1 Force",
+        "alias": "0n1 Force",
+        "properties": 
+            {
+                "contract": "0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D",
+                "roleID": "1036401900012195972",
+                "roleName": "mangAnime"
+            }
+    },
+    { 
+        "name": "Azuki",
+        "alias": "Azuki",
+        "properties": 
+            {
+                "contract": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+                "roleID": "1036401900012195972",
+                "roleName": "mangAnime"
+            }
+    },
+    { 
+        "name": "Isekai Meta",
+        "alias": "Isekai Meta",
+        "properties": 
+            {
+                "contract": "0x684E4ED51D350b4d76A3a07864dF572D24e6dC4c",
+                "roleID": "1036401900012195972",
+                "roleName": "mangAnime"
+            }
+    },
+    { 
+        "name": "Spottie WiFi x illa Da Producer: Full Set",
+        "alias": "Spottie ",
+        "properties": 
+            {
+                "contract": "0xe9531788a24ada6dd8a99abd72ed08ad5e2dc7e4",
+                "roleID": "1036395535973757040",
+                "roleName": "music"
+            }
+    },
+    { 
+        "name": "Spottie WiFi x Bun B: 'All Time High'",
+        "alias": "Spottie ",
+        "properties": 
+            {
+                "contract": "0x605E28A5888FEc153937e223f1A867ff8571E72D",
+                "roleID": "1036395535973757040",
+                "roleName": "music"
+            }
+    },
+    { 
+        "name": "I'm Spottie Vinyl Record Collection",
+        "alias": "Spottie ",
+        "properties": 
+            {
+                "contract": "0xA0E1B198bCC877a950A29512ab5C0CE1Bb964c97",
+                "roleID": "1036395535973757040",
+                "roleName": "music"
+            }
+    },
+    { 
+        "name": "JOYRIDE II SHOWTIME",
+        "alias": "Latasha ",
+        "properties": 
+            {
+                "contract": "0x75c8e01B4697A9b1346f8D5fA7492449d07738bD",
+                "roleID": "1036395535973757040",
+                "roleName": "music"
+            }
+    },
+    { 
+        "name": "CULTURE",
+        "alias": "Latasha ",
+        "properties": 
+            {
+                "contract": "0xB31B7bac13041a90aa9907611f3736485E83a7e0",
+                "roleID": "1036395535973757040",
+                "roleName": "music"
+            }
+    },
+    { 
+        "name": "MANY FACE TA$H",
+        "alias": "Latasha ",
+        "properties": 
+            {
+                "contract": "0x495f947276749Ce646f68AC8c248420045cb7b5e",
+                "roleID": "1036395535973757040",
+                "roleName": "music"
+            }
+    },
+    { 
+        "name": "Deathbat",
+        "alias": "Deathbat ",
+        "properties": 
+            {
+                "contract": "0x1D3aDa5856B14D9dF178EA5Cab137d436dC55F1D",
+                "roleID": "1036395535973757040",
+                "roleName": "music"
+            }
+    },
+    { 
+        "name": "Domino",
+        "alias": "Presessence Vol 1 - The Album ",
+        "properties": 
+            {
+                "contract": "0x62DCcdD4fb1e68070B40f9fEd4E99b94af2160f5",
+                "roleID": "1036395535973757040",
+                "roleName": "music"
+            }
+    },
+    { 
+        "name": "Arye",
+        "alias": "Arye",
+        "properties": 
+            {
+                "contract": "0x495f947276749Ce646f68AC8c248420045cb7b5e",
+                "roleID": "1036395535973757040",
+                "roleName": "music"
+            }
+    }
+    
+]
